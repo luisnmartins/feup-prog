@@ -32,20 +32,21 @@ Neste trabalho, desenvolve-mos todas as competências pretendidas pelo que ao ex
 
 - Recomendar o produto a comprar para os 10 clientes com menor valor de compras(“Bottom10”), procedendo da seguinte forma:
 	
-	Reune os produtos comuns a este 10 clientes. Posteriormente, encontra os outros clientes (“Clientes Interessantes”) que tenham comprado pelo menos todos os produtos comuns aos Bottom10 + 1.
-	De seguida, obtém os produtos dos “Clientes Interessantes” que não foram comprados por todos os Bottom10 simultaneamente, ordenado posteriormente estes do mais frequente para o menos frequente.(produtos não bottom10)
-	Por fim, propõem o primeiro produto encontrado que não tenha sido comprado por nenhum dos Bottom10, e se tal não se verifica é proposto o produto menos frequente entre os produtos comprados pelos Bottom10, mesmo que não simultaneamente, e que esteja nos “produtos não bottom10”.
+	 - Reune os produtos comuns a este 10 clientes
+	 - Encontra os outros clientes (“Clientes Interessantes”) que tenham comprado pelo menos todos os produtos comuns aos Bottom10 + 1.
+	 - Obtém os produtos dos “Clientes Interessantes” que não foram comprados por todos os Bottom10 simultaneamente, ordenado posteriormente estes do mais frequente para o menos frequente.(produtos não bottom10)
+	 - Propõem o primeiro produto encontrado que não tenha sido comprado por nenhum dos Bottom10, e se tal não se verifica é proposto o produto menos frequente entre os produtos comprados pelos Bottom10, mesmo que não simultaneamente, e que esteja nos “produtos não bottom10”.
 
--Recomendar um produto para um cliente da seguinte forma:
+- Recomendar um produto para um cliente da seguinte forma:
 
-	1 - Cria uma matriz com as transações existentes.
-	2 - Compara cada transação/cliente com o cliente alvo
-	3 - Reune os produtos desse cliente (“produtos a poder sugerir”) seguindo estas 2 condições: 
+	 - Cria uma matriz com as transações existentes.
+	 - Compara cada transação/cliente com o cliente alvo
+	 - Reune os produtos desse cliente (“produtos a poder sugerir”) seguindo estas 2 condições: 
 
-		a) se este comprou pelo menos um produto não comprado pelo cliente alvo
-		b) se é dos o clientes com maior grau de semelhança em relação ao cliente alvo.
+			a) se este comprou pelo menos um produto não comprado pelo cliente alvo
+			b) se é dos o clientes com maior grau de semelhança em relação ao cliente alvo.
 
-	4 - Sugere como produto aquele que é mais frequente entre os “produtos a poder sugerir”
+	 - Sugere como produto aquele que é mais frequente entre os “produtos a poder sugerir”
 
 
 —————  Melhorias  ——————
