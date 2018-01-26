@@ -1,4 +1,4 @@
-READ ME    ——  Vende ++
+Vende ++
 
 Este projeto foi desenvolvido no âmbito da unidade curricular de Programação e tem como objetivo desenvolver as capacidades dos alunos para esta competência.
 
@@ -7,7 +7,7 @@ Todo o projeto foi realizado por:
 	Carlos Miguel da Silva de Freitas (up201504749)
 	Luís Noites Martins (up201503344)
 
-———————————————————————————————————————————————————————————————————— PROJECTO ———————————————————————————————————————————————————————————————
+————— PROJECTO —————
 
 O programa foi desenvolvido e compilado em visual studio e xcode, pelo que não está garantido o seu integral funcionamento quando compilado por outros softwares.
 
@@ -38,17 +38,17 @@ Neste trabalho, desenvolve-mos todas as competências pretendidas pelo que ao ex
 
 -Recomendar um produto para um cliente da seguinte forma:
 
-	Cria uma matriz com as transações existentes. De seguida, compara cada transação/cliente com o cliente alvo, e reune os produtos desse cliente (“produtos a poder sugerir”) seguindo estas 2 condições: 
+	1 - Cria uma matriz com as transações existentes.
+	2 - Compara cada transação/cliente com o cliente alvo
+	3 - Reune os produtos desse cliente (“produtos a poder sugerir”) seguindo estas 2 condições: 
 
-	a)se este comprou pelo menos um produto não comprado pelo cliente alvo
-	b) se é dos o clientes com maior grau de semelhança em relação ao cliente alvo.
+		a) se este comprou pelo menos um produto não comprado pelo cliente alvo
+		b) se é dos o clientes com maior grau de semelhança em relação ao cliente alvo.
 
-Por fim, sugere como produto aquele que é mais frequente entre os “produtos a poder sugerir”
-
-
+	4 - Sugere como produto aquele que é mais frequente entre os “produtos a poder sugerir”
 
 
-—————————————————————————————————————————————————————————————   Melhorias  ——————————————————————————————————————————————————————————————————
+—————  Melhorias  ——————
 
 
 1 - Verificação da validade de inputs
