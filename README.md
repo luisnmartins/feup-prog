@@ -9,8 +9,7 @@ Todo o projeto foi realizado por:
 
 ————— PROJECTO —————
 
-O programa foi desenvolvido e compilado em visual studio e xcode, pelo que não está garantido o seu integral funcionamento quando compilado por outros softwares.
-
+O programa foi desenvolvido e compilado tendo sido testado através dos IDE's Visual Studio e Xcode
 
 Neste trabalho, desenvolve-mos todas as competências pretendidas pelo que ao executá-lo o cliente está habilitado a:
 
@@ -25,10 +24,10 @@ Neste trabalho, desenvolve-mos todas as competências pretendidas pelo que ao ex
 - Adicionar Transações(atualiza o valor de compras do cliente)
 
 - Listar de forma formatada e por ordem cronológica as transacções:
-	a)todas
-	b)entre duas datas (verifica se a primeira data é anterior à segunda, e se são ambas válidas)
-	c)um dia(verifica se a data é válida)
-	d)um cliente
+	- Todas
+	- Entre duas datas (verifica se a primeira data é anterior à segunda, e se são ambas válidas)
+	- Um dia(verifica se a data é válida)
+	- Um cliente
 
 - Recomendar o produto a comprar para os 10 clientes com menor valor de compras(“Bottom10”), procedendo da seguinte forma:
 	
