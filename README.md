@@ -1,4 +1,4 @@
-Vende ++
+<h1>Vende ++</h1>
 
 Este projeto foi desenvolvido no âmbito da unidade curricular de Programação e tem como objetivo desenvolver as capacidades dos alunos para esta competência.
 
@@ -7,7 +7,7 @@ Todo o projeto foi realizado por:
 	Carlos Miguel da Silva de Freitas (up201504749)
 	Luís Noites Martins (up201503344)
 
-————— PROJECTO —————
+<h2>Projeto</h2>
 
 O programa foi desenvolvido e compilado tendo sido testado através dos IDE's Visual Studio e Xcode
 
@@ -48,7 +48,7 @@ Neste trabalho, desenvolve-mos todas as competências pretendidas pelo que ao ex
 	 - Sugere como produto aquele que é mais frequente entre os “produtos a poder sugerir”
 
 
-—————  Melhorias  ——————
+<h3>Melhorias</h3>
 
 
 1 - Verificação da validade de inputs
