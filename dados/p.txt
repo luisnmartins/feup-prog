@@ -1,0 +1,11 @@
+10
+alface ; 0.654
+atum ; 1.00
+banana  ; 1.2
+batatas fritas ; 0.4
+carne ; 2.45
+laranja ; 1.5
+peixe ; 5.6
+pipocas ; 0.956
+protetor solar ; 6.25
+semilhas ; 1.25
